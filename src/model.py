@@ -1,7 +1,4 @@
-"""
-model.py
-Defines and trains an LSTM model for crop yield prediction.
-"""
+
 
 import numpy as np
 import pandas as pd

@@ -11,7 +11,7 @@ from src.dashboard import show_dashboard
 from src.utils import preprocess_input
 import os
 
-# -------------------- App Configuration --------------------
+
 st.set_page_config(
     page_title="🌾 Tamil Nadu Paddy Yield Prediction Dashboard",
     layout="wide",
